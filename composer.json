@@ -1,0 +1,15 @@
+{
+    "name": "davidjpetersen/rt-wikidata",
+    "autoload": {
+        "psr-4": {
+            "Davidjpetersen\\RtWikidata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Petersen",
+            "email": "dp@davidp.us"
+        }
+    ],
+    "require": {}
+}
